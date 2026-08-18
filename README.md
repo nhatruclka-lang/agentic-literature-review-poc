@@ -16,7 +16,6 @@
 - [Chuẩn bị môi trường (Chi phí 0 VNĐ)](#-chuẩn-bị-môi-trường-chi-phí-0-vnđ)
 - [Các điểm dừng kiểm soát (Human-in-the-loop Checkpoints)](#-các-điểm-dừng-kiểm-soát-human-in-the-loop-checkpoints)
 - [Xử lý lỗi thường gặp (Troubleshooting)](#-xử-lý-lỗi-thường-gặp-troubleshooting)
-- [Giấy phép (License)](#-giấy-phép-license)
 
 ---
 
@@ -98,6 +97,3 @@ Dự án này là một bản thử nghiệm chứng minh tính khả thi (**Pro
 
 ---
 
-## 📄 Giấy phép (License)
-
-Dự án này được phân phối dưới giấy phép mã nguồn mở **MIT License**. Bạn được toàn quyền sử dụng, chỉnh sửa và tích hợp vào các dự án nghiên cứu cá nhân hoặc thương mại.
